@@ -10,10 +10,10 @@
 # 競賽模式
 除了測試模型的正確率之外，亦需考量模型的載入速度，以及 inference 的速度。上傳訓練好的模型至 AIdea，平台會將模型載入至 Jetson Nano(微型處理器) 後，做 inference 及算分。
 
-#競賽環境
+# 競賽環境
 ![image](https://user-images.githubusercontent.com/79193107/223724039-d157f49e-a8d9-4ef7-a739-37d746786250.png)
 
-#解題方法
+# 解題方法
 ![image](https://user-images.githubusercontent.com/79193107/223724434-5979b2fc-0982-426c-9899-d0e84dd04ec6.png)
 ![image](https://user-images.githubusercontent.com/79193107/223724492-b4bd4e81-7ed9-43b7-b06b-f0afeadcd242.png)
 ![image](https://user-images.githubusercontent.com/79193107/223724569-8b5281f8-65ba-4285-95d3-9f97d358f73e.png)
@@ -25,5 +25,5 @@
 ![image](https://user-images.githubusercontent.com/79193107/223724830-e32677ca-99a0-4f5b-a32c-7d4b13c602ee.png)
 ![image](https://user-images.githubusercontent.com/79193107/223724905-903653c0-fee4-4ae4-8cbb-e2ef3928b783.png)
 
-#成績
+# 成績
 ![image](https://user-images.githubusercontent.com/79193107/223725003-9b4b7f14-6878-4f8b-bc74-0c42d031745b.png)
