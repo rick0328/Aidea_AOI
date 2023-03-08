@@ -2,6 +2,7 @@
  Code for Aidea"Edge AI 競賽 – AOI 瑕疵檢測"
 
 競賽連結：https://aidea-web.tw/topic/6354136b-3301-4306-aa5e-07fd07e1838a
+
 資料集取得：https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4
 
 # Introduction
